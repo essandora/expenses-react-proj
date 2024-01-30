@@ -1,5 +1,7 @@
 import './Expenses.css'
+import Card from './Card'
 import ExpenseItem from './ExpenseItem'
+
 
 function Expenses() {
 const expenses = [
