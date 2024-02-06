@@ -16,6 +16,7 @@ const ExpenseForm = (props) => {
         setEnteredDate(event.target.value)
     }
 
+
     return(
         <form>
             <div>
