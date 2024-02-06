@@ -3,7 +3,7 @@ import Card from '../UI/Card'
 import ExpenseItem from './ExpenseItem'
 
 
-function Expenses() {
+const Expenses = () => {
 const expenses = [
     {
       date: new Date(2024, 0, 10),
